@@ -109,6 +109,11 @@ const balloons = [
   "asset/balloon/balloon (2).png",
   "asset/balloon/balloon (3).png",
   "asset/balloon/balloon (4).png",
+  "asset/balloon/36bf0f9e-51d3-4172-bf60-a744c04fd220.jfif",
+  "asset/balloon/61666405-3555-4481-8649-5af87fde6dcd.jfif",
+  "asset/balloon/8ed73f6e-ac4c-41af-90d8-90823e9719e8.jfif",
+  "asset/balloon/a590f4bd-8fe5-4415-b09b-fadc5932d49e.jfif",
+  
 ];
 const emojis = [
   "❤️",
